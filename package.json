@@ -1,0 +1,30 @@
+{
+  "name": "probation",
+  "version": "1.0.0",
+  "description": "Test function's conduct (result)  against an expected result for a given input",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/probation.git"
+  },
+  "keywords": [
+    "test",
+    "trial",
+    "function",
+    "expected",
+    "assert",
+    "probation"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/probation/issues"
+  },
+  "homepage": "https://github.com/bredele/probation#readme"
+}
